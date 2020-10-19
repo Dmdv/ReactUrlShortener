@@ -1,6 +1,6 @@
 {
   "port": 5050,
-  "mongoUri": "mongodb+srv://dima:ThEEhquxZxOPifOd@cluster0.it2hx.mongodb.net/urls?retryWrites=true&w=majority",
+  "mongoUri": "mongodb+srv://dima:NJzgA6svF8IMAX8g@cluster0.it2hx.mongodb.net/urls?retryWrites=true&w=majority",
   "jwtSecret": "your_secret",
   "baseUrl": "http://localhost:5050"
 }
